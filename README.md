@@ -1,6 +1,6 @@
 # Scrapy Computers
 
-![Scrapy Computers Logo](link-to-your-logo.png)
+![Scrapy Computers Logo](#)
 
 Scrapy Computers is a modding project for the popular game [Scrap Mechanic](https://store.steampowered.com/app/387990/Scrap_Mechanic/). Our mission is to enhance the gameplay by adding computers and automation capabilities to this creative engineering game. With Scrapy Computers, you can unleash your inner engineer and build complex contraptions and machines within the game world.
 
